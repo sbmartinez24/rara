@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Sarah Martinez</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #001f3f;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #0074D9;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <h1>About Me</h1>
+        <p>I'm Sarah Martinez, a creative media enthusiast focused on digital content creation, graphic design, and storytelling. My aim is to create memorable media experiences that inspire and engage audiences.</p>
+    </div>
+
+</body>
+</html>

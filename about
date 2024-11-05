@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Sarah Martinez</title>
+    <title>About Me - Sarah Martinez</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,18 +27,27 @@
         nav a:hover {
             text-decoration: underline;
         }
+        .profile-image {
+            display: block;
+            margin: 20px auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
     </style>
 </head>
 <body>
 
     <div class="container">
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="about.html">About Me</a>
+            <a href="skills.html">My Skills</a>
+            <a href="contact.html">Contact Me</a>
         </nav>
         <h1>About Me</h1>
-        <p>I'm Sarah Martinez, a creative media enthusiast focused on digital content creation, graphic design, and storytelling. My aim is to create memorable media experiences that inspire and engage audiences.</p>
+        <img src="IMG_1184.jpeg" alt="Profile Picture of Sarah Martinez" class="profile-image">
+        <p>Hello! I'm Sarah Martinez, a media creator passionate about storytelling, design, and crafting engaging digital experiences. My journey in media has been shaped by a drive to connect with audiences through creative projects and innovative content.</p>
     </div>
 
 </body>

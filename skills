@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Skills - Sarah Martinez</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #001f3f;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #0074D9;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <nav>
+            <a href="about.html">About Me</a>
+            <a href="skills.html">My Skills</a>
+            <a href="contact.html">Contact Me</a>
+        </nav>
+        <h1>My Skills</h1>
+        <p>I'm proficient in Adobe Creative Suite, video editing, web design, and storytelling. I enjoy crafting compelling visual content and exploring new digital media techniques to elevate my work.</p>
+    </div>
+
+</body>
+</html>

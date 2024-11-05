@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Sarah Martinez</title>
+    <title>Contact Me - Sarah Martinez</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,12 +33,12 @@
 
     <div class="container">
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="about.html">About Me</a>
+            <a href="skills.html">My Skills</a>
+            <a href="contact.html">Contact Me</a>
         </nav>
         <h1>Contact Me</h1>
-        <p>Feel free to reach out via email at sarah.martinez@example.com, or follow me on my social media handles to stay updated!</p>
+        <p>You can reach me at <a href="mailto:sarah.martinez@example.com" style="color: #d9eaf5;">sarah.martinez@example.com</a>. Feel free to connect with me on social media to follow my work and projects!</p>
     </div>
 
 </body>
